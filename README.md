@@ -1,11 +1,11 @@
 # Hi there 👋
-# This is Kashif Hussain.
-# I'm a Junior Frontend Developer.
-# I belongs to Masher-Yasin (Gilgit Baltistan).
-# I'm currently working on my Website.
-# I'm currently learning Backend Development in SMIT (Islamabad, Pakistan).
-# I'm looking to collaborate on websites.
-# contect me: kh9732494@gmail.com
+This is Kashif Hussain.
+I'm a Junior Frontend Developer.
+I belongs to Masher-Yasin (Gilgit Baltistan).
+I'm currently working on my Website.
+I'm currently learning Backend Development in SMIT (Islamabad, Pakistan).
+I'm looking to collaborate on websites.
+contect me: kh9732494@gmail.com
 
 
 <!--
