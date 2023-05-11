@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+# This is Kashif Hussain.
+# I'm a Junior Frontend Developer.
+# I belongs to Masher-Yasin (Gilgit Baltistan).
+# I'm currently working on my Website.
+# I'm currently learning Backend Development in SMIT (Islamabad, Pakistan).
+# I'm looking to collaborate on websites.
+# contect me: kh9732494@gmail.com
+
 
 <!--
 **kashifjanwali/kashifjanwali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
