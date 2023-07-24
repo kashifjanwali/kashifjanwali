@@ -1,3 +1,10 @@
+<style>
+  *{
+    background-color: pink;
+    font-family: monospace;
+  }
+</style>
+
 # Hey 👋
 This is <strong>Kashif Hussain</strong>.
 a creative <em>Front-end React Developer.</em>
