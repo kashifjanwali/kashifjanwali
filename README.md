@@ -1,3 +1,3 @@
 # Hey 👋
-This is <strong>Kashif Hussain</strong> &nbsp; (Working in <strong>KJW Coding</strong>)
-📧 kh9732494@gmail.com
+This is <strong>Kashif Hussain</strong> &nbsp; (Full Stack at <strong>KJW Coding</strong>)
+<br>📧 kh9732494@gmail.com
